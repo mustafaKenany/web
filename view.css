@@ -1,0 +1,19 @@
+body{
+    background-color: #ffccc3;
+}
+#main{
+    background-color: #ffcccc;
+    font-style: italic;
+    margin-top: 100px;
+    width: 60%;
+    font-display:block;
+    font-size: 15pt;
+    
+}
+#w{
+    font-style: italic;
+    font-size: 50pt;
+    
+}
+
+
